@@ -1,12 +1,13 @@
 # Getting started
 
-This guide shows how to run the documentation site locally and propose changes through a pull request.
+This guide shows how to run the documentation site locally and propose changes through a pull request. This guide shows how to run the documentation site locally and propose changes through a pull request.This guide shows how to run the documentation site locally and propose changes through a pull request.This guide shows how to run the documentation site locally and propose changes through a pull request.This guide shows how to run the documentation site locally and propose changes through a pull request.This guide shows how to run the documentation site locally and propose changes through a pull request.This guide shows how to run the documentation site locally and propose changes through a pull request.This guide shows how to run the documentation site locally and propose changes through a pull request.This guide shows how to run the documentation site locally and propose changes through a pull request.
 
 ## Prerequisites
 
 - Python 3.11+
 - Git
 - Internet access (to install dependencies)
+- 
 
 ## Run locally
 

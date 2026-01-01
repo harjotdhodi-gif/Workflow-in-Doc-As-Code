@@ -1,4 +1,4 @@
-# Welcome to My Product Docs
+# Welcome to Doc-as-Code workflow
 
 This site is generated from Markdown using **MkDocs Material** and published via **GitHub Pages**.
 
