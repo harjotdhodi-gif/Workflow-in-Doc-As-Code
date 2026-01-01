@@ -12,7 +12,9 @@ theme:
 nav:
   - Home: index.md
   - Guides:
-      - Guide 1: guide-1.md
+      - Getting Started: getting-started.md
+      - Install: install.md
+      - Review Workflow: review-workflow.md
   - Downloads: downloads.md
 
 markdown_extensions:
