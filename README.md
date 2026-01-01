@@ -1,1 +1,1 @@
-# AI-Workflow-in-Doc-As-Code
+# Workflow-in-Doc-As-Code
