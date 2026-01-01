@@ -16,4 +16,3 @@ Run these commands from the repository root:
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 
-Use this guide to install the documentation toolchain locally and confirm that builds work.Use this guide to install the documentation toolchain locally and confirm that builds work.Use this guide to install the documentation toolchain locally and confirm that builds work.Use this guide to install the documentation toolchain locally and confirm that builds work.
